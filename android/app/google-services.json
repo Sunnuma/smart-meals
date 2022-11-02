@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066805075567",
+    "project_id": "smart-meals-885a1",
+    "storage_bucket": "smart-meals-885a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066805075567:android:f0cedf2c55c911f6e5779a",
+        "android_client_info": {
+          "package_name": "com.smartmeals.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066805075567-3149uub1t54n2769kpfk545a1g8dk817.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJGfmshYrRD9eq_h3-wSsdzrXCUkkmN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066805075567-3149uub1t54n2769kpfk545a1g8dk817.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
